@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Troll</h1>
-- 🌱 I’m currently learning **Java**
-
+<h1 align="center">Hello there 👋</h1>
 - 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
