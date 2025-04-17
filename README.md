@@ -1,3 +1,4 @@
 <h1 align="center">Hello there 👋</h1>
-- 🌱 I’m currently learning Java, Python, Html, Css & Js
+- I master Html, CSS, PHP
+- 🌱 I’m currently learning Java, Python & Myql
 
