@@ -14,5 +14,5 @@
 > 🔐 Une partie de mes contributions sont sur des dépôts privés (missions freelance & entreprises), mais visibles dans mon graphique d'activité.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JeSuisTrolls&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=JeSuisTrolls&theme=dark" alt="GitHub Streak" />
 </p>
