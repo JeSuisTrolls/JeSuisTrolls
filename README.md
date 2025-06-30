@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-> 🔐 Une partie de mes contributions sont sur des dépôts privés (missions freelance & entreprises), mais visibles dans mon graphique d'activité.
+> 🔐 Une grande partie de mes contributions sont sur des dépôts privés (missions freelance & entreprises).
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JeSuisTrolls&theme=dark" alt="GitHub Streak" />
